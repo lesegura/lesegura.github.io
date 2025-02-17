@@ -1,0 +1,123 @@
+PMID- 38996642
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240825
+LR  - 20240828
+IS  - 1873-4758 (Electronic)
+IS  - 0955-3959 (Print)
+IS  - 0955-3959 (Linking)
+VI  - 130
+DP  - 2024 Aug
+TI  - Higher unemployment benefits are associated with reduced drug overdose mortality 
+      in the United States before and during the COVID-19 pandemic.
+PG  - 104522
+LID - S0955-3959(24)00207-X [pii]
+LID - 10.1016/j.drugpo.2024.104522 [doi]
+AB  - OBJECTIVES: Overdose mortality rates in the United States remain critical to 
+      population health. Economic , such as unemployment, are noted risk factors for 
+      drug overdoses. The COVID-19 pandemic exacerbated economic hardship; as a result, 
+      the US government enacted income protection programs in conjunction with existing 
+      unemployment insurance (UI) to dampen COVID-19-related economic consequences. We 
+      investigate whether UI, operationalized as the weekly benefit allowance (WBA) 
+      replacement rate, is negatively associated with drug-related overdoses. METHODS: 
+      Data from the pooled 2014-2020 Detailed Restricted Mortality files for all 
+      counties from the Centers for Disease Control and Prevention, restricted to 
+      people ≥18 years of age, aggregated at the county-quarter level (n = 89,914). We 
+      included any fatal drug, opioid, and stimulant overdose. We modeled the 
+      association between WBA replacement rate (e.g., a greater proportion of weekly 
+      earnings replaced by UI) on each county-level age-adjusted mortality outcome 
+      using separate linear regression models during 2014-2020, pre-COVID (2014-2018), 
+      and post-COVID (2019-2020). We conducted sensitivity analyses using multi-level 
+      linear regression models. RESULTS: Results indicated that a more robust WBA 
+      replacement rate any drug (Risk Difference [RD]: -0.06, 95 % Confidence Interval 
+      [CI]: -0.08, -0.05), opioid (RD: -0.04, 95 % CI: -0.06, -0.03), and stimulant 
+      (RD: -0.03, 95 % CI: -0.04, -0.02) across the entire study period (2014-2020). A 
+      more robust WBA replacement rate was associated with fewer fatal drug, opioid and 
+      stimulant overdoses in the pre-COVID-19 period and on fatal any drug and 
+      stimulant overdoses in the COVID-19 period. CONCLUSIONS: Findings support the 
+      notion that income protection policies, such as robust UI, can have a supportive 
+      role in preventing fatal drug overdoses, calling for a broader discussion onthe 
+      role of the safety net programs to buffer drug-related harms.
+CI  - Copyright © 2024 Elsevier B.V. All rights reserved.
+FAU - Martins, Silvia S
+AU  - Martins SS
+AD  - Department of Epidemiology, Columbia University Mailman School of Public Health, 
+      United States. Electronic address: ssm2183@cumc.columbia.edu.
+FAU - Segura, Luis E
+AU  - Segura LE
+AD  - Department of Epidemiology, Columbia University Mailman School of Public Health, 
+      United States.
+FAU - Marziali, Megan E
+AU  - Marziali ME
+AD  - Department of Epidemiology, Columbia University Mailman School of Public Health, 
+      United States.
+FAU - Bruzelius, Emilie
+AU  - Bruzelius E
+AD  - Department of Epidemiology, Columbia University Mailman School of Public Health, 
+      United States.
+FAU - Levy, Natalie S
+AU  - Levy NS
+AD  - Department of Epidemiology, Columbia University Mailman School of Public Health, 
+      United States.
+FAU - Gutkind, Sarah
+AU  - Gutkind S
+AD  - Department of Epidemiology, Columbia University Mailman School of Public Health, 
+      United States.
+FAU - Santarin, Kristen
+AU  - Santarin K
+AD  - Department of Epidemiology, Columbia University Mailman School of Public Health, 
+      United States.
+FAU - Sacks, Katherine
+AU  - Sacks K
+AD  - Milken Institute, United States.
+FAU - Fox, Ashley
+AU  - Fox A
+AD  - Department of Public Administration and Policy, Rockefeller College of Public 
+      Affairs and Policy, University at Albany, SUNY, United States.
+LA  - eng
+GR  - R01 DA059376/DA/NIDA NIH HHS/United States
+GR  - T32 DA031099/DA/NIDA NIH HHS/United States
+PT  - Journal Article
+DEP - 20240711
+PL  - Netherlands
+TA  - Int J Drug Policy
+JT  - The International journal on drug policy
+JID - 9014759
+SB  - IM
+MH  - Humans
+MH  - *COVID-19/mortality/epidemiology
+MH  - United States/epidemiology
+MH  - *Unemployment/statistics & numerical data
+MH  - *Drug Overdose/mortality/epidemiology
+MH  - Adult
+MH  - Male
+MH  - Female
+MH  - Young Adult
+MH  - Adolescent
+MH  - Middle Aged
+PMC - PMC11347091
+MID - NIHMS2011015
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Drug mortality
+OT  - Drug-related overdoses
+OT  - Unemployment insurance
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2024/07/13 07:43
+MHDA- 2024/08/26 12:42
+PMCR- 2025/08/01
+CRDT- 2024/07/12 19:45
+PHST- 2023/11/20 00:00 [received]
+PHST- 2024/06/03 00:00 [revised]
+PHST- 2024/07/03 00:00 [accepted]
+PHST- 2025/08/01 00:00 [pmc-release]
+PHST- 2024/08/26 12:42 [medline]
+PHST- 2024/07/13 07:43 [pubmed]
+PHST- 2024/07/12 19:45 [entrez]
+AID - S0955-3959(24)00207-X [pii]
+AID - 10.1016/j.drugpo.2024.104522 [doi]
+PST - ppublish
+SO  - Int J Drug Policy. 2024 Aug;130:104522. doi: 10.1016/j.drugpo.2024.104522. Epub 
+      2024 Jul 11.
