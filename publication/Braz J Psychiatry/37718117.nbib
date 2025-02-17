@@ -1,0 +1,111 @@
+PMID- 37718117
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240306
+LR  - 20240306
+IS  - 1809-452X (Electronic)
+IS  - 1516-4446 (Print)
+IS  - 1516-4446 (Linking)
+VI  - 45
+IP  - 5
+DP  - 2023 Sep-Oct
+TI  - Drug overdose deaths in Brazil between 2000 and 2020: an analysis of 
+      sociodemographics and intentionality.
+PG  - 405-413
+LID - 10.47626/1516-4446-2022-3023 [doi]
+AB  - OBJECTIVES: To examine drug overdose records in Brazil from 2000 to 2020, 
+      analyzing trends over time in overdoses and overall sociodemographic 
+      characteristics of the deceased. METHODS: Using data from the Brazilian Mortality 
+      Information System (Sistema de Informações sobre Mortalidade), we identified 
+      records from 2000-2020 in which the underlying cause-of-death was one of the 
+      following codes: X40-X45 (accidental poisoning), X60-X65 (intentional poisoning), 
+      or Y10-Y15 (undetermined intentionality poisoning). The Brazilian dataset 
+      included 21,410 deaths. We used joinpoint regression analysis to assess changes 
+      in trends over time. RESULTS: People who died of drug overdoses in Brazil between 
+      2000 and 2020 had a mean age of 38.91 years; 38.45% were women, and 44.01% were 
+      identified as White. Of the overdose deaths, 44.70% were classified as 
+      intentional and 32.12% were classified as unintentional. Among the identified 
+      drugs, stimulants were the most common class. However, most records did not 
+      report which drug was responsible for death. CONCLUSION: Sociodemographic trends 
+      in overdose deaths in Brazil must guide country-specific policies. Nevertheless, 
+      data collection protocols must be improved, particularly regarding the drug used 
+      in overdoses.
+FAU - Bianco, Marina Costa Moreira
+AU  - Bianco MCM
+AD  - Departamento de Psiquiatria, Universidade Federal de São Paulo (UNIFESP), São 
+      Paulo, SP, Brazil.
+FAU - Tardelli, Vitor S
+AU  - Tardelli VS
+AD  - Departamento de Psiquiatria, Universidade Federal de São Paulo (UNIFESP), São 
+      Paulo, SP, Brazil. Translational Addiction Research Laboratory, Centre for 
+      Addiction and Mental Health, Toronto, ON, Canada.
+FAU - Brooks, Emily Rose
+AU  - Brooks ER
+AD  - Department of Epidemiology, Columbia University Mailman School of Public Health, 
+      New York, NY, USA.
+FAU - Areco, Kelsy C N
+AU  - Areco KCN
+AD  - Departamento de Informática em Saúde, UNIFESP, São Paulo, SP, Brazil.
+FAU - Tardelli, Adalberto O
+AU  - Tardelli AO
+AD  - Departamento de Informática em Saúde, UNIFESP, São Paulo, SP, Brazil.
+FAU - Bandiera-Paiva, Paulo
+AU  - Bandiera-Paiva P
+AD  - Departamento de Informática em Saúde, UNIFESP, São Paulo, SP, Brazil.
+FAU - Santaella, Julian
+AU  - Santaella J
+AD  - Department of Population Health, New York University, New York, NY, USA.
+FAU - Segura, Luis E
+AU  - Segura LE
+AD  - Department of Epidemiology, Columbia University Mailman School of Public Health, 
+      New York, NY, USA.
+FAU - Castaldelli-Maia, João M
+AU  - Castaldelli-Maia JM
+AD  - Department of Epidemiology, Columbia University Mailman School of Public Health, 
+      New York, NY, USA. Departamento de Psiquiatria, Faculdade de Medicina, 
+      Universidade de São Paulo, São Paulo, SP, Brazil.
+FAU - Martins, Silvia S
+AU  - Martins SS
+AD  - Department of Epidemiology, Columbia University Mailman School of Public Health, 
+      New York, NY, USA.
+FAU - Fidalgo, Thiago M
+AU  - Fidalgo TM
+AD  - Departamento de Psiquiatria, Universidade Federal de São Paulo (UNIFESP), São 
+      Paulo, SP, Brazil.
+LA  - eng
+GR  - PGIF/Columbia University President´s Global Innovation Fund/USA
+PT  - Journal Article
+DEP - 20230917
+PL  - Brazil
+TA  - Braz J Psychiatry
+JT  - Revista brasileira de psiquiatria (Sao Paulo, Brazil : 1999)
+JID - 100895975
+RN  - 0 (Central Nervous System Stimulants)
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - Adult
+MH  - Male
+MH  - Brazil/epidemiology
+MH  - *Drug Overdose
+MH  - *Central Nervous System Stimulants
+PMC - PMC10894626
+OTO - NOTNLM
+OT  - Drug overdose
+OT  - central nervous system stimulants
+OT  - substance-related disorders
+COIS- The authors report no conflicts of interest.
+EDAT- 2023/09/18 00:41
+MHDA- 2024/03/06 06:43
+PMCR- 2023/11/21
+CRDT- 2023/09/17 21:12
+PHST- 2022/12/23 00:00 [received]
+PHST- 2023/07/19 00:00 [accepted]
+PHST- 2024/03/06 06:43 [medline]
+PHST- 2023/09/18 00:41 [pubmed]
+PHST- 2023/09/17 21:12 [entrez]
+PHST- 2023/11/21 00:00 [pmc-release]
+AID - 10.47626/1516-4446-2022-3023 [doi]
+PST - ppublish
+SO  - Braz J Psychiatry. 2023 Sep-Oct;45(5):405-413. doi: 10.47626/1516-4446-2022-3023. 
+      Epub 2023 Sep 17.
